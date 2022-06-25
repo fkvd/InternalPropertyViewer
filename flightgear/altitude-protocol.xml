@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PropertyList>
+<generic>
+   <output>
+      <line_separator></line_separator>
+      <var_separator></var_separator>
+ 
+      <chunk>
+         <name>altitude above ground</name>
+         <node>/position/altitude-agl-ft</node>
+         <type>float</type>
+         <format>%f</format>
+       </chunk>
+
+   </output>
+</generic>
+</PropertyList>
